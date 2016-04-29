@@ -5,7 +5,7 @@ Blog example designed a day after learning reactjs basis
 Thanks to Sarah Drasner
 
 Json format:
-
+```json
 {
     "posts": 
     [
@@ -21,6 +21,7 @@ Json format:
 
     ]
 }
+```
 
 Running locally
 ====================================================
