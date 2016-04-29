@@ -2,12 +2,13 @@ Mr.Kindo is a blog built on ReactJs and PureCss
 ===================================
 
 Blog example designed a day after learning reactjs basis
-Thanks to 
+Thanks to Sarah Drasner
 
 Json format:
 
 {
-    "posts": [
+    "posts": 
+    [
         {
             "title": "Your title",
             "assert": "summary of post",
@@ -21,9 +22,10 @@ Json format:
     ]
 }
 
+Running locally
+====================================================
 Use the simpleserver.py file to quick launch a server
 python is required
-====================================================
 
 Goto http://localhost:7000
 
