@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example that shows off a blog page with a list of posts.">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <title>Welcome &ndash; Mr.Kindo</title>
+<link rel="stylesheet" href="css/vendor/pure-min.css">
+<!--[if lte IE 8]>
+  
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+  
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  
+    <link rel="stylesheet" href="css/vendor/grids-responsive-min.css">
+  
+<!--<![endif]-->
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="css/vendor/blog-old-ie.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="css/blog.css">
+    <!--<![endif]-->
+</head>
+<body>
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title">McDavid Kindo</h1>
+            <h2 class="brand-tagline">The Lazy Software Engineer</h2>
+
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a class="pure-button" href="">Python</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="">Javascript</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="">Descrete Maths</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="">Psychology</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+                <h1 class="content-subhead">Pinned Post</h1>
+
+                <!-- A single blog post -->
+                <section class="post" id="pinned-post">
+                    <header class="post-header">
+                        <h2 class="post-title">Who am I?</h2>
+                        <p class="post-meta">
+                            in <a class="post-category post-category-design" href="#">General</a>
+                        </p>
+                    </header>
+                    <div class="post-description">
+                        <p>From my tagline, you would see something live "the lazy software engineer" and you'ld be like "what? this dude is lazy".</p>
+                        <p>In the actual context <strong>me</strong> refering to <strong>myself</strong> as a lazy software engineer is that <strong>I</strong> try to solve problems efficiently in a quick way. You can refer to me as a Hacker(you see this one looks even more scary and perhaps when people come here and see something like "the black hacker", they think I am somone who hacks into credit cards). Lazy Software engineer kinda grabs more eyes into the reading tho</p>
+                    </div>
+                </section>
+            </div>
+
+            <div class="posts" id="other-post">
+                <h1 class="content-subhead">Recent Posts</h1>
+            </div>
+
+            <div class="footer">
+                <div class="pure-menu pure-menu-horizontal">
+                    <ul>
+                        <li class="pure-menu-item"><a href="" class="pure-menu-link">About</a></li>
+                        <li class="pure-menu-item"><a href="http://twitter.com/kindo_prec/" target="_blank" class="pure-menu-link">Twitter</a></li>
+                        <li class="pure-menu-item"><a href="http://github.com/kindoprec/" target="_blank" class="pure-menu-link">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="../libs/react.min.js"></script>
+<script src="../libs/react-dom.min.js"></script>
+<script src="../libs/axios.min.js"></script>
+<script src="js/index.js"></script>
+
+</body>
+</html>

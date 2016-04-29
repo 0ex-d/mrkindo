@@ -1,0 +1,59 @@
+{
+    "posts": [
+        {
+            "title": "Descrete Mathematics 101",
+            "assert": "",
+            "description": "Discrete Maths, unlike other branches of mathematics, helps to develop a logical approach to problem solving which you will agree is a very important skill that all programmers need to have. Of course, you will almost never open your Discrete Maths textbook and copy something into your code to solve a problem. However, understanding the concepts will help developers write better code, better algorithms, and use design patterns more effectively.\n\nNot having a good knowledge of Discrete Maths limits you as a developer. Let me explain, if you are mainly focused on building web applications that implement basic CRUD operations or the most simple apps then you don’t probably need to understand Discrete Maths. However, if you wanted to challenge yourself as a developer by building more complex projects like building a search engine or an aggregation tool, a graphics software, an AI project etc then a good knowledge of Discrete Maths would be very useful.\n\nThe most useful and interesting part of Discrete Maths for me is probability and combinatorics because I could relate to their use in solving real life problems.",
+            "pinned": true,
+            "tags": [{"id":"345", "tag":"General"}],
+            "url": "",
+            "hashid": "VzvgRA"
+        },
+        {
+            "title": "Ms Windows for peeps, Linux for Ninjas",
+            "assert": "",
+            "description": "If you ever used the windows Os, you would know what I mean by 'windows for peeps', the worst of it began from windows 8.1 and the code ninjas who love to break things and fix broken necks would always be found around using Linux(be it Macintosh or Ubuntu) at least it's opensource and people get to contribute and more versions like Kafaka, KaliLinux, Linuxmint have come into existence\nI am not a racist but c'mon we've got encourage other code breakers out there on reasons to pick Linux Os and leave the Ms Os to the ladies and ajebutter people. 'Another thing that sucks is when you see a lady ordering for a Mac and you boot the machine to explore only to find out the primary boot is Windows 10 or any other windows distributions and you ask why she bought the mark, here is the reply you get often [it's because my friends have it!]':'(\n\nI know you maybe asking, why should I leave my comfortable windows Os? Here are the main reasons why i had prefer a Linux Os to the Ms Os:\n\nI also know you maybe asking, I use Windows for development without issues.Mhmm...but can you boast that it was damn straight forward or you didn't go through tons of articles and tutorials to arive at that solution.",
+            "pinned": true,
+            "tags": [{"id":"345", "tag":"General"}],
+            "url": "",
+            "hashid": "VxDRA"
+        },
+        {
+            "title": "One thing I learnt from Python as a Language",
+            "assert": "",
+            "description": "I have been using Python for a few months now, I want to share my experience on this 10yr old language and how it teached me to be organized",
+            "pinned": true,
+            "tags": [{"id":"345", "tag":"General"}],
+            "url": "",
+            "hashid": "PzvgRA"
+        },
+        {
+            "title": "ReactJs and Backbone learnt in the same week",
+            "assert": "",
+            "description": "blah blah blah....",
+            "pinned": true,
+            "tags": [{"id":"345", "tag":"General"}],
+            "url": "",
+            "hashid": "ZzvgRA"
+        },
+        {
+            "title": "Node.js is growing way to fast...To where?",
+            "assert": "",
+            "description": "blah blah blah....",
+            "pinned": true,
+            "tags": [{"id":"345", "tag":"General"}],
+            "url": "",
+            "hashid": "ZzoxRA"
+        },
+        {
+            "title": "Jquery is cool, Backbone.js is great, Vanilla is best!..Repeat backwards",
+            "assert": "",
+            "description": "blah blah blah....",
+            "pinned": true,
+            "tags": [{"id":"345", "tag":"General"}],
+            "url": "",
+            "hashid": "BeiRta"
+        }
+
+    ]
+}
